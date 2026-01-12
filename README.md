@@ -173,7 +173,8 @@ Each query is **independent** and can be run separately.
 
 ##  📊 Visualization – Top Paying Remote Data Analyst Jobs
 
-![Top Paying Remote Data Analyst Jobs](./visuals/top_paying_remote_data_analyst_jobs.png)
+![Top Paying Remote Data Analyst Jobs](./assets/top_paying_remote_data_analyst_jobs.png)
+
 
 **Insight:**  
 The chart shows a clear salary progression across remote Data Analyst roles. While entry and mid-level analyst positions already offer strong compensation, senior, director, and principal-level roles command a **significant salary premium**. This indicates that in the remote job market, **experience, leadership, and advanced analytical responsibility are the primary drivers of higher pay**.
